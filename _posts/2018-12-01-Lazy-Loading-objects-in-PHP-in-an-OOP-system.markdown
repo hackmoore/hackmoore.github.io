@@ -4,8 +4,9 @@ description: How drastically reduced the loading speed, number of database queri
 categories:
  - programming
 tags:
- - hackthebox
- - guide
+ - programming
+ - oop
+ - PHP
 ---
 
 ## Notes
